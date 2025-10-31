@@ -11,7 +11,7 @@ import uvicorn
 from datetime import datetime
 
 # Gemini API Configuration
-GEMINI_API_KEY = "AIzaSyDumlwe8yV6zJdTqUx9CW2lD_D-upVPjUQ"
+GEMINI_API_KEY = "AIzaSyB9i66gjoyXozmryVrLD7oPvBl9dEV9yLc"
 GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
 
 # FastAPI app
